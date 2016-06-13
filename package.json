@@ -2,6 +2,7 @@
   "name": "Webpanel",
   "version": "0.0.1",
   "author": "Steven Tappert <admin@dark-it.net>",
+  "private": "true",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.0",
