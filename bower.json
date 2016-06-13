@@ -1,0 +1,23 @@
+{
+  "name": "Webpanel",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Steven Tappert <admin@dark-it.net>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "tmp"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
